@@ -1,3 +1,4 @@
+#This is Pelindrome program in ruby
 def Pelindrome?(string)
   string == string.reverse 
 end 
