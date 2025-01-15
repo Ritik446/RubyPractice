@@ -1,0 +1,8 @@
+puts "enter number"
+a.gets.to_i
+ 
+ if num % 2 == 0
+ 	puts "odd"
+ else 
+ 	puts "even"
+end
